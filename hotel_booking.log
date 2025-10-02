@@ -1,0 +1,2 @@
+2025-10-02 14:45:25,772 - INFO - BOOKED - {'customer_name': 'Elene', 'room_number': 501, 'room_type': 'Single', 'nights': 2, 'start_date': '2025-10-02', 'total_price': 192.0}
+2025-10-02 14:46:06,678 - INFO - BOOKED - {'customer_name': 'elene', 'room_number': 501, 'room_type': 'Single', 'nights': 1, 'start_date': '2025-10-02', 'total_price': 96.0}
